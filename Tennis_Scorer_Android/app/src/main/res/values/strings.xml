@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">tennis scorer</string>
+    <string name="emptyString" />
+    <string name="emptyString1" />
+    <string name="empty" />
+    <string name="empty1" />
+    <string name="empty22" />
+    <string name="empty23" />
+    <string name="empty33" />
+    <string name="empty34" />
+    <string name="title_activity_database">DatabaseActivity</string>
+</resources>
